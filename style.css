@@ -1,0 +1,45 @@
+/************************************** css kodlar**************************************/
+body {
+    background-color:khaki;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-position: inside 
+}
+h1 {
+    color:blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+header {
+    text-align: center;
+    font: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2 {
+    color: darkblue;
+    text-align: center;
+}
+h3 {
+    color:darkmagenta;
+    text-align: center;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div {
+    text-align: center;
+}
+ul{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-align: inherit;
+}
+li{
+    font-size: larger;
+    color: rgb(13, 87, 24);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
